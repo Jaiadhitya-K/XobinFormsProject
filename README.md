@@ -1,11 +1,14 @@
 # Multi-Stakeholder Evaluation Platform
 
+### HOW TO TEST THIS
+- CHECK OUT THE FOLDER "TEST RESOURCES", TO GET A CSV OF ALL THE PRE-EXISTING USERS OF THIS PLATFORM
+- TO TEST THE UPLOAD CSV FEATURE, A SAMPLE CSV IS ALSO AVAILABLE IN THE "TEST RESOURCES" FOLDER
+
 A comprehensive web application for creating and managing multi-stakeholder evaluations with an intuitive admin interface and public evaluation forms.
 
 ## 🚀 Features
 
 ### Admin Features
-- **Secure Authentication**: Login using Supabase Auth (email/password)
 - **Form Builder**: Create custom evaluation forms with different question types
   - Rating scales (1-3, 1-5, 1-10)
   - Text responses
